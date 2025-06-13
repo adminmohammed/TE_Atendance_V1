@@ -13,9 +13,9 @@ escrow_ignore {
 
 
 server_scripts {
-	"@vrp/lib/utils.lua",
+    "@vrp/lib/utils.lua",
     "File/ServerSide.lua",
-    "File/Server.lua",
+    "File/server.lua",
     "config.lua"
 }
 
